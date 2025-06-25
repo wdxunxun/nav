@@ -40,6 +40,8 @@ No database, no server, zero-cost one-click deployment, ready to use out of the 
 
 Easy to use, simple, and powerful.
 
+this is a page for xun.
+
 [Who is using it?](https://official.nav3.cn/?id=3)
 
 ## Features
@@ -173,3 +175,4 @@ For commercial sites, themes, projects, and applications, keep your source code 
 Licensed under the GNU General Public License 3.0 for compatible open source projects and non-commercial use.
 
 Copyright 2024-present xiejiahe
+
